@@ -1,9 +1,12 @@
-![Header](./github-header-image.png)
-<h1 align="center">Hi 👋, I'm Farhan Hasan</h1>
-<h3 align="center">B.Sc. Computer Science Candidate Specializing in Problem Solving & Software Development</h3>
-<img align="right" alt="PC" width="200" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
+![MasterHead](./farhan-hasan.gif)
+
+<img align="right" alt="PC" width="300" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhan-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="farhan-hasan" /> </p>
+
+- 🌱 I’m currently learning **Web Technologies**
+
+- 💬 Ask me about **Competitive  Programming, Mobile Application Development**
 
 - 📫 How to reach me **syedfarhan6491232@gmail.com**
 
@@ -20,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhan-hasan&show_icons=true&locale=en&layout=compact" alt="farhan-hasan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhan-hasan&show_icons=true&locale=en" alt="farhan-hasan" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farhan-hasan&" alt="farhan-hasan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhan-hasan&show_icons=true&locale=en" alt="farhan-hasan" /></p>
